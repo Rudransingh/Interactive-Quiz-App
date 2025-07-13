@@ -49,4 +49,7 @@ Conclusion:
 This project helped me build strong foundational skills in frontend development and problem-solving. It provided practical experience in developing a real-world application from scratch and strengthened my confidence in working with core web technologies. The guidance from my mentor, Neela Santosh, played a key role in refining my approach to UI/UX and coding standards.
 
 *OUTPUT*:
+![Image](https://github.com/user-attachments/assets/5d810378-a3af-4a96-b633-66f57da8bb13)
+![Image](https://github.com/user-attachments/assets/ba8a000d-3a19-4795-bc0b-9ba70c8c43cd)
+![Image](https://github.com/user-attachments/assets/3a88e26b-3354-44a9-98c3-68bbd55e4631)
 

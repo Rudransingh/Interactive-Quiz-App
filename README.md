@@ -50,6 +50,3 @@ This project helped me build strong foundational skills in frontend development 
 
 *OUTPUT*:
 
-"C:\Users\singh\OneDrive\Pictures\WhatsApp Image 2025-07-13 at 11.31.12_bf098546.jpg"
-"C:\Users\singh\OneDrive\Pictures\WhatsApp Image 2025-07-13 at 11.31.12_6f0fa399.jpg"
-"C:\Users\singh\OneDrive\Pictures\WhatsApp Image 2025-07-13 at 11.31.12_4a2a7c46.jpg"
